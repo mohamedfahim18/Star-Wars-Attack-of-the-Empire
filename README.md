@@ -3,8 +3,7 @@
 An interactive 2D game developed using Scratch Desktop and packaged into a standalone Windows application using TurboWarp Packager.
 
 ## 🎮 About the Game
-
-Star Wars: Attack of the Empire is my personal game development project, bringing an interactive gaming experience to Windows desktops.
+Star Wars: Attack of the Empire is my personal game development project, bringing the epic Star Wars universe to life on Windows desktops. Take control of a Rebel spaceship, navigate through the vastness of space, dodge incoming enemy attacks, and unleash your firepower against Imperial forces. Fight against the Empire, defend the Rebellion, and prove your skills in an intergalactic battle for freedom!
 
 ## 🛠️ Technologies Used
 - Scratch Desktop
