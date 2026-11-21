@@ -19,7 +19,7 @@ Visit the [Releases](../../releases) section to download the latest version of t
 Go to Releases → Assets → Download Star-Wars-Attack-of-the-Empire-v1.0.0.zip.
 
 ## 👨‍💻 Developer
-Mohamed Fahim
+Mohamed Fahim U
 
 ## ⚠️ Disclaimer
 This is an independent fan-made project and is not affiliated with or endorsed by Disney or Lucasfilm.
