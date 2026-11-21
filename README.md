@@ -1,4 +1,4 @@
-# ⭐ Star Wars: Attack of the Empire
+# Star Wars: Attack of the Empire
 
 An interactive 2D game developed using Scratch Desktop and packaged into a standalone Windows application using TurboWarp Packager.
 
