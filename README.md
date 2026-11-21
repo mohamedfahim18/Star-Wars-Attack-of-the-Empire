@@ -16,6 +16,7 @@ Windows
 ## 📥 Download
 
 Visit the [Releases](../../releases) section to download the latest version of the game.
+Go to Releases → Assets → Download Star-Wars-Attack-of-the-Empire-v1.0.0.zip.
 
 ## 👨‍💻 Developer
 Mohamed Fahim
